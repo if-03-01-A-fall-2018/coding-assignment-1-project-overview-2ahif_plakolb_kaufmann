@@ -2,14 +2,14 @@ article > h1 {
   text-align: center;
   text-shadow: #FC0 1px 0 10px;
   background-color: 	lightgrey;
-  border-top: 5px solid lightblue;
-  border-bottom: 5px solid lightblue;
+  border-top: 2.5px solid black;
+  border-bottom: 2.5px solid black;
 }
 
 article > section > h2 {
   color: black;
   text-decoration: underline;
-  text-decoration-style: wavy;
+  text-decoration-style: dashed;
   text-decoration-color: darkred;
 }
 

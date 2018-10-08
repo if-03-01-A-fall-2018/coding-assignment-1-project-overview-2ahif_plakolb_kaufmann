@@ -1,0 +1,10 @@
+
+Explanation:
+            Augumented Reality(ger. Erweiterte Realität) is part of the mixed Reality.
+            Best known example "Pokemon Go" , Reality and VR are combined
+            On CES 2018 a AR display called "Deep Frame" was presented (https://www.realfiction.com/solutions/mixed-reality/deepframe)
+            Multiple AR Headsets are currently on the Market for example:Microsoft HoloLense, Google Glasses, Samsung Odyssey, Lenovo Explorer and other brands like HP, Asus have exactly the same.
+            AR Headsets:
+            Mixed Reality Headsets:
+            Most AR Headsets have Inside Out Tracking (Tracking without other sensors)
+            Military can use it to mark dangerous spots or fire fighters can see fire sources.
