@@ -13,6 +13,11 @@ article > section > h2 {
   text-decoration-color: darkred;
 }
 
+section > h3 {
+  font-size: #30;
+  font-weight: bold;
+}
+
 table {
   border-collapse: collapse;
 }
