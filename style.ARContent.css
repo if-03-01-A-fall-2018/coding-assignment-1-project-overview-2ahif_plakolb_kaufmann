@@ -1,0 +1,29 @@
+article > h1 {
+  text-align: center;
+  text-shadow: #FC0 1px 0 10px;
+  background-color: 	lightgrey;
+  border-top: 5px solid lightblue;
+  border-bottom: 5px solid lightblue;
+}
+
+article > section > h2 {
+  color: black;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: darkred;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+tr:hover {
+  background-color: lightgrey;
+  color: black;
+}
