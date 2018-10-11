@@ -1,6 +1,11 @@
+body {
+  color: lightgrey;
+}
+
 article > h1 {
   text-align: center;
-  text-shadow: #FC0 1px 0 10px;
+  color: #0066ff;
+  text-shadow: white 1px 0 10px;
   background-color: 	lightgrey;
   border-top: 2.5px solid black;
   border-bottom: 2.5px solid black;
@@ -9,13 +14,16 @@ article > h1 {
 article > section > h2 {
   color: black;
   text-decoration: underline;
-  text-decoration-style: dashed;
-  text-decoration-color: darkred;
+  text-decoration-style:double;
+  text-decoration-color: darkgrey;
 }
 
 section > h3 {
+  color: darkgrey;
   font-size: #30;
   font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: black;
 }
 
 table {
@@ -29,6 +37,6 @@ th, td {
 }
 
 tr:hover {
-  background-color: lightgrey;
+  background-color: grey;
   color: black;
 }
