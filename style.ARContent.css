@@ -5,11 +5,12 @@ body {
 
 article > h1 {
   text-align: center;
-  color: #0066ff;
-  text-shadow: white 1px 0 10px;
+  color: black;
+  text-shadow: darkgrey 5px 5px 5px;
   background-color: 	lightgrey;
   border-top: 2.5px solid black;
   border-bottom: 2.5px solid black;
+  border-radius: 10px;
 }
 
 article > section > h2 {
@@ -21,7 +22,6 @@ article > section > h2 {
 
 section > h3 {
   color: darkgrey;
-  font-size: #30;
   font-weight: bold;
   text-decoration: underline;
   text-decoration-color: black;
@@ -40,10 +40,11 @@ th, td {
 tr:hover {
   background-color: grey;
   color: black;
+  text-shadow: black 0.5px 0 0.5px;
 }
 
 a {
-  color: red;
+  color: darkgrey;
   text-decoration: underline;
 }
 a:hover {
@@ -51,15 +52,14 @@ a:hover {
   background-color: black;
   text-decoration: underline;
   text-decoration-style: double;
-  text-decoration-color: red;
+  text-decoration-color: white;
 }
 
 a:visited {
-  color: black;
+  color: lightgrey;
   text-decoration: none;
-  background: white;
 }
 
-section > h3 > p {
-  text-indent: 100px;
+ul {
+  text-indent: 5px;
 }
