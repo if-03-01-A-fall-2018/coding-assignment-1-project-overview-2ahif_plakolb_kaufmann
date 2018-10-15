@@ -1,5 +1,6 @@
 body {
   color: lightgrey;
+  background-image:url("background_image.png");
 }
 
 article > h1 {
@@ -57,4 +58,8 @@ a:visited {
   color: black;
   text-decoration: none;
   background: white;
+}
+
+section > h3 > p {
+  text-indent: 100px;
 }
