@@ -62,4 +62,5 @@ a:visited {
 
 ul {
   text-indent: 5px;
+  list-style-type: circle;
 }
